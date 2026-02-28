@@ -1,2 +1,13 @@
-# WorldOfTanks-Tank-ClientSide-Restrictions-Remover
-Remove client side text in World Of Tanks like  "hey u cant go in  battle on this tank"
+===========================OWNER===============================
+
+All Rights RESERVED to @f1xx00rs (https://github.com/f1xx00rs)
+
+===============================================================
+
+Simple script to reemove ClientSide Restriction text
+
+===INSTALATION===
+
+1- Download Release
+
+2- Be good with PjOrion
