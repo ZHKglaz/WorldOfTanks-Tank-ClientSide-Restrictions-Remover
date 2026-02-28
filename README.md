@@ -11,7 +11,7 @@ Simple script to reemove ClientSide Restriction text
 
 1- Download Release
 
-2- Start WoT-Transmission ( WoT too )
+2- Start WoT-Transmission
 
 3- Exec script when you in hangar
 
